@@ -11,6 +11,7 @@ namespace CalculatorLibrary
         public static double Add(double v1, double v2)
         {
             return v1 + v2;
+            // kage
         }
 
         public static double Subtract(double v1, double v2)
